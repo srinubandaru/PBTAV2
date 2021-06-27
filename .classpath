@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/activation.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/classes12.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/com.jcraft.jsch_0.1.31.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/connector.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/junit.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/mail.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/mysql-connector-java-3.0-nightly-20060809-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/poi-3.5-beta6-20090622.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/poi-ooxml-3.5-beta6-20090622.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/poi-scratchpad-3.5-beta6-20090622.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/testng.jar"/>
+	<classpathentry kind="lib" path="E:/Ericsson-PBTA_Base_Project_Latest/PBTA2.0/Framework-Src/PBTAV2/lib/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
